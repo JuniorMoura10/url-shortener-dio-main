@@ -1,6 +1,6 @@
-# url-shortener-dio
+# url-shortener
 
-Projeto criado junto da DIO para construção de um Encurtador de URL.
+Projeto Final do bootcamp da Spread em parceria com a Dio e mentoria da Alexia Dorneles
 
 ## Rodando o projeto
 
@@ -16,4 +16,4 @@ Algumas informações sobre os vídeos:
 
 Informações pessoais:
 
-- Meu linkedin: https://www.linkedin.com/in/alexiapereira/
+- Meu linkedin: https://www.linkedin.com/in/junior-moura-67aab373/
